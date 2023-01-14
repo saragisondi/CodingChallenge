@@ -1,0 +1,102 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  display: inline-block;
+}
+
+.rectangle{
+  width: 950px;
+  height: 680px;
+  background:rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  margin-left: 280px;
+  margin-top: 30px;
+  border-radius: 20px;
+}
+
+.container{
+  width: 1000px;
+}
+
+.Lim{
+  text-align: center;
+  margin-right: 5%;
+  margin-top: 6%;
+}
+
+.logo{
+  width: 210px;
+}
+
+.title{
+  font-size: 25px;
+  color: lime;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+.Prenotazione{
+  text-align: center;
+}
+
+div > button{
+  background-color: white;
+  text-decoration-color: black;
+  font-size: 10px;
+}
+
+nav{
+  background-color: lime;
+  width: 80%;
+  padding: 10px;
+  margin-left: 7%;
+}
+
+main{
+  padding:15px;
+  display: inline-block;
+}
+
+.Monopattini-Lim{
+margin-left:10%;
+color: white;
+font-family: 'Poppins', sans-serif;
+}
+
+.Nome-Monopattino{
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.Distanza{
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.Carica-Gino22{
+  background-color: #ffbd70;
+  width: 250px;
+  height: 25px;
+  border-radius: 5px;
+  font-size: 12px;
+  margin-bottom: 20px;
+
+}
+
+.Carica-Mike24{
+  background-color: #2bb706;
+  width: 450px;
+  height: 25px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.Carica-Fede154{
+  background-color: #d1343f;
+  width: 120px;
+  height: 25px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
