@@ -1,0 +1,52 @@
+/* GENERAL */
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url("img/background.jpg");
+  background-size: cover;
+  background-repeat: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img{
+  max-width: 100%;
+}
+
+.square{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 63%;
+  margin-top: 10vh;
+  border-radius: 20px;
+}
+
+li{
+  list-style: none;
+}
+
+/* HEADER */
+header{
+  margin: 60px 150px 0 ;
+}
+
+
+.container-logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img{
+  height: 10vh;
+  width: auto;
+}
+
+.title h1{
+  color:#00dd00 ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
